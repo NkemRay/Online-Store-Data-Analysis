@@ -122,4 +122,4 @@ https://public.tableau.com/app/profile/racheal.ogbozor1965/viz/OnlineStoreDataAn
 
 •	I recommend that online store look into their product in terms of packaging and quality to ensure that it meets the audience preferences to avoid refund of products as done by some of these customers
 
-
+![](https://github.com/NkemRay/Online-Store-Data-Analysis/blob/main/images/Screenshot%20(102).png)
